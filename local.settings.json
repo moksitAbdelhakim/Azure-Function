@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=stexosmart001;AccountKey=26E7KnZyxF9ew0vWEq4yZP1g/KT6x8WkMMjUuCas0rwVsyZkEfiSGcTVfCI6ElaBGqP+kv9VfEjw+AStn/UNEg==;EndpointSuffix=core.windows.net",
+    "ADT_SERVICE_URL": "https://dt-exosmart-dev-001.api.neu.digitaltwins.azure.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
